@@ -1698,6 +1698,19 @@ body{
     text-transform: uppercase;
     text-shadow: 1px 1px 1px var(--color-title);
 }
+
+.footer__description{
+    padding: 2rem;
+    color: var(--color-principal);
+    background-color: var(--color-footer-down);
+}
+
+.footer__text{
+    width: 55%;
+    margin: 0 auto;
+    font-size: 1.3rem;
+    White-space: nowrap;
+}
     
 
     
