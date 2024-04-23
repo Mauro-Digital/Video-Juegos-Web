@@ -1234,6 +1234,7 @@ body{
 }
 
 .social__item{
+    list-style: none;
     height: 7rem;    
     width: 100%;
     margin-bottom: 1rem;
@@ -1248,6 +1249,7 @@ body{
 }
 
 .social__link{
+    padding-top: 19px;
     display: flex;
     flex-direction: row;
     color: var(--color-principal);
